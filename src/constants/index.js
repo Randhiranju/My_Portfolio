@@ -23,7 +23,6 @@ import {
     Criminal,
     threejs,
   } from "../assets";
-  
   export const navLinks = [
     {
       id: "about",
@@ -41,11 +40,11 @@ import {
   
   const services = [
     {
-      title: "Next.JS Developer",
+      title: "MERN Stack Developer",
       icon: web,
     },
     {
-      title: "React.JS  Developer",
+      title: "Java Programming",
       icon: web,
     },
     {
@@ -105,36 +104,47 @@ import {
     },
 
     {
-      name: "docker",
+      name: "Docker",
       icon: docker,
     },
   ];
   
   const experiences = [
     {
-      title: "Software Developer",
+      title: "Software Developer Intern",
       company_name: "GaoTek Inc.",
       icon: Gao,
       iconBg: "#383E56",
       date: "May 2023 - August 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Web-content uploading and Enhancement",
+        "SEO optimization",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
+        "Gained expertise in AI‑driven content creation and en‑hancement. Proficiently managed content uploading on WordPress‑based website (Gaolab) and acquired foundational knowledge of SEO auditing using tools such as Fathom and Google Analytics (GA4)",
       ],
     },
     {
-      title: "Web Developer",
+      title: "MERN FUllStack Training",
+      company_name: "Ethnus",
+      icon:"",
+      iconBg: "#383E56",
+      date: "May 2023 - July 2023",
+      points: [
+        "Learnt MERN stack and other component libraries under guidence for Ethnus Faculty",
+        "Developed Task-Buddy , a full stack based task management tool",
+        "Also developed many small react projects like age-calculator,hotstar-clone etc"
+      ],
+    },
+    {
+      title: "Web Developer Intern",
       company_name: "Spark Foundation",
       icon: spark,
       iconBg: "#383E56",
       date: "April 2023 - May 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed a dummy banking system to learn various working for various components of a banking website and their data sharing",
+        "Brushed-up web development tech stacks Html,CSS,JS and PHP"
       ],
     },
   ];

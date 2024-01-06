@@ -48,7 +48,7 @@ const About = () => {
       <motion.p variants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] mx-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with Experience in Javascript, Typescript and expertise in frameworks and libraries like Next, React and Node.Js. I also have basic Experience with cloud technologies like AWS and CRM tool SalesForce. I am quick learner and collaborative to create efficient,scalable and user-friendly solutions to real-world problems. I am always keen towards solving real-world problems using latest Tech Stacks.
+        I'm a skilled software developer with Experience in Javascript, Typescript and expertise in frameworks and libraries like Next, React and Node.Js (MERN).I also poses good command on fundamental JAVA, DSA and other Core Subjects. I am quick learner and collaborative to create efficient,scalable and user-friendly solutions to real-world problems with cutting edge Technologies.
       </motion.p>
 
       {/*cards  ...services spreads the services*/}
