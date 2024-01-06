@@ -1,8 +1,13 @@
-# MyPortfolio
-![pg1](https://user-images.githubusercontent.com/94231655/233449909-1cc94eb4-c846-4497-922c-7bef0a4b0943.png)
+#My Portfolio
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/606bccc5-ccdd-43cd-b27b-be33468bfeb1)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/f643399c-4f51-4d46-bd46-0757412c3ebd)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/486a4429-72c2-4e1e-991d-6eccb3815d10)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/28d37846-31d5-483c-9f75-63fd1a37c84a)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/b333b839-1e72-4a5e-b006-d5779ee4d055)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/8607ce91-2773-4a2e-a661-11df0091b15e)
+![image](https://github.com/Randhiranju/My_Portfolio/assets/94231655/14e4caf3-ad34-49ec-a8e3-782e566f5960)
 
-![pg2](https://user-images.githubusercontent.com/94231655/233450989-ea0078d1-d60a-463e-97d5-f2dcc90db786.png)
-![pg3](https://user-images.githubusercontent.com/94231655/233451022-869ec40b-dd2a-4bed-bb98-83b4f89ab9a1.png)
-![pg4](https://user-images.githubusercontent.com/94231655/233451031-2823d4ab-2afe-40a6-b0e0-f6b900fb041f.png)
-![pg5](https://user-images.githubusercontent.com/94231655/233451042-68fb558f-fca1-4ab1-a284-da4ad5047844.png)
-![pg6](https://user-images.githubusercontent.com/94231655/233451062-e17c3554-1954-467a-86e0-a376df4bc23a.png)
+
+
+
+
